@@ -1,0 +1,19 @@
+# EXTM3U
+
+#EXTINF: -1 tvg-id = "" tvg-name = "Cantinazo de CO latino" tvg-logo = "" group-title = "COLUMBIA", Cantinazo de CO latino
+
+http://ultrontv.xyz:80/Tamara/Tamara/37431
+
+#EXTINF: -1 tvg-id = "caracol.co" tvg-name = "Latin CO Caracol" tvg-logo = "" group-title = "COLUMBIA", Latin CO Caracol
+
+http://ultrontv.xyz:80/Tamara/Tamara/37432
+
+#EXTINF: -1 tvg-id = "caracol.co" tvg-name = "Latin CO Caracol FHD" tvg-logo = "" group-title = "COLUMBIA", Latin CO Caracol FHD
+
+http://ultrontv.xyz:80/Tamara/Tamara/37433
+
+#EXTINF: -1 tvg-id = "caracol.co" tvg-name = "Latin CO Caracol HD2" tvg-logo = "" group-title = "COLUMBIA", Latin CO Caracol HD2
+
+http://ultrontv.xyz:80/Tamara/Tamara/37434
+
+#EXTINF:-1 tvg-id="" tvg-name="Latin CO Caracol Internacional" tvg-logo="" group-title="COLUMBIA",Latin CO Caracol Internacional
